@@ -1,14 +1,14 @@
 server:
 ```
-./chatgo server
+./tcpstream server
 ```
 
 client 1:
 ```
-./chatgo client
+./tcpstream client
 ```
 
 client 2:
 ```
-./chatgo client
+./tcpstream client
 ```
