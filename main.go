@@ -4,10 +4,10 @@ import (
 	"log"
 	"os"
 
-	"github.com/deeper-x/chatgo/client"
-	"github.com/deeper-x/chatgo/errorcs"
-	"github.com/deeper-x/chatgo/server"
-	"github.com/deeper-x/chatgo/settings"
+	"github.com/deeper-x/tcpstream/client"
+	"github.com/deeper-x/tcpstream/errorcs"
+	"github.com/deeper-x/tcpstream/server"
+	"github.com/deeper-x/tcpstream/settings"
 )
 
 func main() {

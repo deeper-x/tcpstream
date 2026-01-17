@@ -7,9 +7,9 @@ import (
 	"net"
 	"os"
 
-	"github.com/deeper-x/chatgo/errorcs"
-	"github.com/deeper-x/chatgo/settings"
-	"github.com/deeper-x/chatgo/utils"
+	"github.com/deeper-x/tcpstream/errorcs"
+	"github.com/deeper-x/tcpstream/settings"
+	"github.com/deeper-x/tcpstream/utils"
 )
 
 func Run() error {

@@ -3,7 +3,7 @@ package utils
 import (
 	"os/user"
 
-	"github.com/deeper-x/chatgo/settings"
+	"github.com/deeper-x/tcpstream/settings"
 )
 
 func GetUsername() string {
